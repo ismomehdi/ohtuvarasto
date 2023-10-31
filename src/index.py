@@ -1,5 +1,6 @@
 from varasto import Varasto
 
+# Test
 
 def main():
     mehua = Varasto(100.0)
